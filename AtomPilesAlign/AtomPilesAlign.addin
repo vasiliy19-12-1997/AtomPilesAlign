@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command AtomPilesAlign</Text>
+    <Description>Some description for AtomPilesAlign</Description>
+    <Assembly>AtomPilesAlign.dll</Assembly>
+    <FullClassName>AtomPilesAlign.Command</FullClassName>
+    <ClientId>3038d194-3664-46d2-aa04-51ebe4757dd7</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application AtomPilesAlign</Name>
+    <Assembly>AtomPilesAlign.dll</Assembly>
+    <FullClassName>AtomPilesAlign.App</FullClassName>
+    <ClientId>c05d18ce-e2da-4092-8fe8-a6891e4fb41b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
